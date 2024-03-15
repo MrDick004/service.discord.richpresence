@@ -7,7 +7,7 @@ msgstr ""
 "Language: en\n"
 
 msgctxt "#32001"
-msgid "General"
+msgid "Generale"
 msgstr ""
 
 msgctxt "#32002"
@@ -19,7 +19,7 @@ msgid "Playing ..."
 msgstr ""
 
 msgctxt "#32004"
-msgid "Watching"
+msgid "Sta guardando"
 msgstr ""
 
 msgctxt "#32005"
@@ -27,11 +27,11 @@ msgid "Kodi"
 msgstr ""
 
 msgctxt "#32010"
-msgid "Customize"
+msgid "Personalizzazione"
 msgstr ""
 
 msgctxt "#32011"
-msgid "Movie"
+msgid "Film"
 msgstr ""
 
 msgctxt "#32012"
@@ -39,11 +39,11 @@ msgid "Bottom text"
 msgstr ""
 
 msgctxt "#32013"
-msgid "Genre"
+msgid "Genere"
 msgstr ""
 
 msgctxt "#32014"
-msgid "Title"
+msgid "Titolo"
 msgstr ""
 
 msgctxt "#32015"
@@ -55,23 +55,23 @@ msgid "Top text"
 msgstr ""
 
 msgctxt "#32017"
-msgid "Directors"
+msgid "Diretto"
 msgstr ""
 
 msgctxt "#32020"
-msgid "Episode"
+msgid "Episodio"
 msgstr ""
 
 msgctxt "#32021"
-msgid "Episode"
+msgid "Episodio"
 msgstr ""
 
 msgctxt "#32022"
-msgid "Show title"
+msgid "Vedi titolo"
 msgstr ""
 
 msgctxt "#32023"
-msgid "Display time"
+msgid "Tempo"
 msgstr ""
 
 msgctxt "#32024"
