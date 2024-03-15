@@ -15,7 +15,7 @@ msgid "Show presence while not playing"
 msgstr ""
 
 msgctxt "#32003"
-msgid "Playing ..."
+msgid "Riproduzione ..."
 msgstr ""
 
 msgctxt "#32004"
